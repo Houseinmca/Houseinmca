@@ -1,4 +1,23 @@
-## Hi there 👋
+## Hi there 
+
+###  👋 
+
+#### About me
+
+- 🔭 I’m currently studying at [CUG](http://www.cug.edu.cn/) now.
+- 💕 I love open source.
+- 🛩️ How to reach me: [@oaeen](https://t.me/oaeen).
+- 💬 Ask me about anything.
+
+#### Skills
+
+![Skills](https://skillicons.dev/icons?i=py,go,cpp,java,ts,md,docker,cloudflare,gcp,git,linux,mysql,stackoverflow,vscode,qt,pytorch,tensorflow)
+
+
+
+![Dino](https://github.com/oaeen/oaeen/blob/master/dino.gif)
+
+
 
 <!--
 **Houseinmca/Houseinmca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
